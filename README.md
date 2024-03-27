@@ -5,7 +5,7 @@
 
 https://login-hacker-roan.vercel.app
 
-Login Hacker é um simulador de login com estética hacker que simula um sistema basico e intuitivo de registro e login.
+Login Hacker é um simulador de login com estética hacker que simula um sistema básico e intuitivo de registro e login.
 
 Ao registrar e fazer login ele lhe levará a uma pagina Home onde ele dá um pequeno "Olá" junto com seu nome.
 
